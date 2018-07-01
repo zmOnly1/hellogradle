@@ -1,0 +1,5 @@
+rootProject.name = 'hellogradle'
+include 'module'
+include 'repository'
+include 'web'
+
